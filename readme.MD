@@ -1,4 +1,4 @@
-# TimSort Shell Script Implementation Example   
+# TimSort Shell Script Implementation Example
 
 This repository contains a shell script implementation of the TimSort algorithm.
 
